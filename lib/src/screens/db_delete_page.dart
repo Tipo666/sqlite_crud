@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sqlite_crud/src/models/db_helper.dart';
+import 'package:sqlite_crud/src/data/db_helper.dart';
 import 'package:sqlite_crud/src/models/product.dart';
 
 
